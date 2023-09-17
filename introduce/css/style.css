@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.return a{
+    text-decoration: none;
+    padding: 23px 100px;
+    background-color: #525252;
+    text-decoration: none;
+    margin-top: 0px;
+    margin-left: -166px;
+    position: absolute;
+    background: linear-gradient(120deg,#444444,#525252,#666666);
+    background-size: 200%;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    left: 12%;
+    top: 2%;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+
+    background-color: #222222;
+    transition-duration: 0.3s;
+    border-bottom: 9px #444444 solid;
+
+}
+.logo{
+    width: 100;
+    text-align: center;
+    top: 55%;
+    position: absolute;
+    left: 20%;
+}
+.logo h4{
+    color: aqua;
+    font-size: 65px;
+    letter-spacing: 10px;
+    margin-top: -60px;
+}
+.wrapper{
+    background-image: url('../image/background.png');
+    height: 4000px;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-color: #2222224f;
+}
+.wrapper a {
+    font-size: 30px;
+    margin: auto ;
+    color: white;
+    text-decoration: none;
+}
+.download a{
+    padding: 23px 100px;
+    background-color: #525252;
+    text-decoration: none;
+    margin-top: 0px;
+    margin-left: -166px;
+    position: absolute;
+    background: linear-gradient(120deg,#444444,#525252,#666666);
+    background-size: 200%;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    left: 50%;
+    top: 50%;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+
+    background-color: #222222;
+    transition-duration: 0.3s;
+    border-bottom: 9px #444444 solid;
+
+}
+.download a:hover{
+    background-position: right;
+}
+.banner{
+    position: absolute;
+    width: 978px;
+    margin: -114px auto;
+    top: 100%;
+    left: 20%;
+}
+.banner ul img {
+    width: 974px;
+    height: 600px;
+    border-top: 9px #222222 solid;
+    border-right: 9px #222222 solid;
+    border-left: 9px #222222 solid;
+    border-bottom:9px #444444 solid ;
+    margin: 32px 7px 7px -6px;
+    background-color: #222222;
+    padding: 25px;
+}
+.banner ul{
+    padding:1px;
+    margin-top: -4px ;
+}
+.banner ul span{
+    position: relative;
+    z-index: 2;
+    font-size: 35px;
+    margin: -114px auto;
+}
