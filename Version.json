@@ -7,7 +7,7 @@
         },
         "2":{
             "verison": "1.0.1 Alpha",
-            "path":"https://github.com/DFAFSS/DFAFSS.github.io/releases/download/1.0.1-Alpha/Create_mod.exe"
+            "path":"https://github.com/DFAFSS/DFAFSS.github.io/releases/download/1.0.1-Alpha/Create_mod.exe",
             "description": "1.修正了制作钻头时的错误"
         }
     }
