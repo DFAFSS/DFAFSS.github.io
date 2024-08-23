@@ -4,7 +4,7 @@
             "VersionNum": 0,
             "ModVersion": "0.0.1",
             "VersionState": 0,
-            "DownloadUrl": null,
+            "DownloadUrl": "null",
             "UpdateDescribes": [
                 {
                     "type": "text",
@@ -16,7 +16,7 @@
             "VersionNum": 1,
             "ModVersion": "0.0.2",
             "VersionState": 2,
-            "DownloadUrl": null,
+            "DownloadUrl": "null",
             "UpdateDescribes": [
                 {
                     "type": "text",
