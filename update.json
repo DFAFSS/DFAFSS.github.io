@@ -1,0 +1,28 @@
+{
+    "Update": [
+        {
+            "VersionNum": 0,
+            "ModVersion": "0.0.1",
+            "VersionState": 0,
+            "DownloadUrl": null,
+            "UpdateDescribes": [
+                {
+                    "type": "text",
+                    "text": "此模组的第一个版本"
+                }
+            ]
+        },
+        {
+            "VersionNum": 1,
+            "ModVersion": "0.0.2",
+            "VersionState": 2,
+            "DownloadUrl": null,
+            "UpdateDescribes": [
+                {
+                    "type": "text",
+                    "text": "此模组的第二个版本"
+                }
+            ]
+        }
+    ]
+}
