@@ -25,6 +25,10 @@
                 {
                     "type": "image",
                     "imgUrl": "https://littleskin.cn/raw/500423"
+                },
+                {
+                    "type": "separate",
+                    "text": "TestText"
                 }
             ]
         }
