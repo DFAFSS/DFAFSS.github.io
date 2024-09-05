@@ -21,6 +21,10 @@
                 {
                     "type": "text",
                     "text": "此模组的第二个版本"
+                },
+                {
+                    "type": "image",
+                    "imgUrl": "https://littleskin.cn/raw/500423"
                 }
             ]
         }
